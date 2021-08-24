@@ -3,3 +3,5 @@
 Food: Noodle
 Address: Bangkok
 Job: Dev
+Travel: Russia
+
